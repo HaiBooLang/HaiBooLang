@@ -10,7 +10,7 @@
 
 ![HaiBooLang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiBooLang&count_private=true&show_icons=true&theme=blueberry)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiBooLang&hide=JupyterNotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiBooLang&exclude_repo=TryDeepLearning)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaiBooLang&repo=TryOpenGL)]()
 
