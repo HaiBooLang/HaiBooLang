@@ -2,9 +2,11 @@
 
 ![HaiBooLang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiBooLang&count_private=true&show_icons=true&theme=blueberry)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiBooLang&hide=JupyterNotebook)](https://github.com/HaiBooLang/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiBooLang&hide=JupyterNotebook)
 
-<button type="button" onclick="alert('欢迎!')">点我!</button>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaiBooLang&repo=TryOpenGL)]()
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HaiBooLang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HaiBooLang/HaiBooLang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
