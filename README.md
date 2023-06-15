@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiBooLang&hide=JupyterNotebook)](https://github.com/HaiBooLang/github-readme-stats)
 
+<button type="button" onclick="alert('欢迎!')">点我!</button>
+
 <!--
 **HaiBooLang/HaiBooLang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
