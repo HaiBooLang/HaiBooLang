@@ -14,9 +14,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaiBooLang&repo=TryOpenGL)]()
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HaiBooLang)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HaiBooLang)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![wakatime](https://wakatime.com/badge/user/95232172-6cbc-4d5a-8edf-3ddc1f6994d4.svg)](https://wakatime.com/@95232172-6cbc-4d5a-8edf-3ddc1f6994d4)
+<!--[![wakatime](https://wakatime.com/badge/user/95232172-6cbc-4d5a-8edf-3ddc1f6994d4.svg)](https://wakatime.com/@95232172-6cbc-4d5a-8edf-3ddc1f6994d4)-->
 
 <!--
 **HaiBooLang/HaiBooLang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
