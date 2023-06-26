@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![Visitor Count](https://profile-counter.glitch.me/HaiBooLang/count.svg)
 https://haiboolang.github.io/
 
 </p>
