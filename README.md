@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![My page](haiboolang.github.io)
 
+https://haiboolang.github.io/
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
