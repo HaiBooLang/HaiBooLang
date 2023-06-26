@@ -2,7 +2,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/HaiBooLang/count.svg)
 
-![haiboolang.github.io](https://haiboolang.github.io/)
+[haiboolang.github.io](https://haiboolang.github.io/)
+
+![](https://raw.githubusercontent.com/HaiBooLang/HaiBooLang/output/github-contribution-grid-snake.svg)
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
