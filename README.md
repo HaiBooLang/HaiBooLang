@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/HaiBooLang/count.svg)
-https://haiboolang.github.io/
+
+![haiboolang.github.io](https://haiboolang.github.io/)
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
