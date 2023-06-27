@@ -15,9 +15,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiBooLang&exclude_repo=TryDeepLearning&layout=donut)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaiBooLang&repo=TryOpenGL)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaiBooLang&repo=TryOpenGL)](https://github.com/HaiBooLang/TryOpenGL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaiBooLang&repo=TryUnity)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaiBooLang&repo=TryUnity)](https://github.com/HaiBooLang/TryUnity)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HaiBooLang)](https://github.com/anuraghazra/github-readme-stats)
 
