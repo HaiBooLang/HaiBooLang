@@ -32,6 +32,37 @@
   <img src="./image/image-20230622220929741.png" alt="Image 2" style="width:49%;">
 </div>
 
+<div>
+  <img src="./image/output1.png" alt="Image 1" style="width:24%;">
+  <img src="./image/output2.png" alt="Image 2" style="width:24%;">  
+  <img src="./image/output3.png" alt="Image 2" style="width:24%;">
+  <img src="./image/output4.png" alt="Image 2" style="width:24%;">
+</div>
+
+<div>
+  <img src="./image/2023-06-27-142502.jpg" alt="Image 1" style="width:49%;">
+  <img src="./image/image-20230623001145405.png" alt="Image 1" style="width:49%;">
+</div>
+
+<div>
+  <img src="./image/2023-06-27-143101.jpg" alt="Image 1" style="width:49%;">
+  <img src="./image/2023-06-27-143001.jpg" alt="Image 1" style="width:49%;">
+</div>
+
+<div>
+  <img src="./image/2023-06-27-142027.jpg" alt="Image 1" style="width:12%;">
+  <img src="./image/2023-06-27-142207.jpg" alt="Image 2" style="width:12%;">
+  <img src="./image/好看鱼蛋.png" alt="Image 2" style="width:24%;"> 
+  <img src="./image/海岸线2.png" alt="Image 2" style="width:24%;"> 
+  <img src="./image/摩托.png" alt="Image 2" style="width:24%;"> 
+</div>
+
+
+
+
+
+
+
 ### Hi there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/HaiBooLang/count.svg)
@@ -41,6 +72,7 @@
 ![](https://raw.githubusercontent.com/HaiBooLang/HaiBooLang/output/github-contribution-grid-snake.svg)
 
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
