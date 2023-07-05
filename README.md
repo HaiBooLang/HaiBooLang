@@ -1,4 +1,9 @@
 <div>
+  <img src="./image/2023-07-05-151621.jpg" alt="Image 1" style="width:49%;">
+  <img src="./image/2023-07-05-151749.jpg" alt="Image 2" style="width:49%;">
+</div>
+
+<div>
   <img src="./image/img666.png" alt="Image 1" style="width:49%;">
   <img src="./image/img888.png" alt="Image 2" style="width:49%;">
 </div>
@@ -56,7 +61,6 @@
   <img src="./image/海岸线2.png" alt="Image 2" style="width:24%;"> 
   <img src="./image/摩托.png" alt="Image 2" style="width:24%;"> 
 </div>
-
 
 
 
