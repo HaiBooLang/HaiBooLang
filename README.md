@@ -4,6 +4,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/haiboolang/haiboolang/output/github-contribution-grid-snake.svg">
 </picture>
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 <div>
   <img src="./image/2023-07-05-151621.jpg" alt="Image 1" style="width:49%;">
   <img src="./image/2023-07-05-151749.jpg" alt="Image 2" style="width:49%;">
@@ -78,8 +80,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/HaiBooLang/count.svg)
 
 [haiboolang.github.io](https://haiboolang.github.io/)
-
-![](https://raw.githubusercontent.com/HaiBooLang/HaiBooLang/output/github-contribution-grid-snake.svg)
 
 </p>
 
